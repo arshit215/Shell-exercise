@@ -1,0 +1,31 @@
+File_Name                      File_Extension       File_Path                                         
+------------------------------ -------------------- --------------------------------------------------
+shell                                               /home/arshit/Desktop/shell                        
+test                                                /home/arshit/Desktop/shell/test                   
+position.txt                   txt                  /home/arshit/Desktop/shell/test/position.txt      
+data.csv                       csv                  /home/arshit/Desktop/shell/test/data.csv          
+temp.csv                       csv                  /home/arshit/Desktop/shell/test/temp.csv          
+role.csv                       csv                  /home/arshit/Desktop/shell/test/role.csv          
+no.txt                         txt                  /home/arshit/Desktop/shell/test/no.txt            
+name.csv                       csv                  /home/arshit/Desktop/shell/test/name.csv          
+type.csv                       csv                  /home/arshit/Desktop/shell/test/type.csv          
+name.txt                       txt                  /home/arshit/Desktop/shell/test/name.txt          
+type.txt                       txt                  /home/arshit/Desktop/shell/test/type.txt          
+salary.txt                     txt                  /home/arshit/Desktop/shell/test/salary.txt        
+.scr.sh.swp                    scr.sh.swp           /home/arshit/Desktop/shell/test/.scr.sh.swp       
+salary.csv                     csv                  /home/arshit/Desktop/shell/test/salary.csv        
+position.csv                   csv                  /home/arshit/Desktop/shell/test/position.csv      
+scr.sh                         sh                   /home/arshit/Desktop/shell/test/scr.sh            
+no.csv                         csv                  /home/arshit/Desktop/shell/test/no.csv            
+data.csv                       csv                  /home/arshit/Desktop/shell/data.csv               
+temp.csv                       csv                  /home/arshit/Desktop/shell/temp.csv               
+role.csv                       csv                  /home/arshit/Desktop/shell/role.csv               
+name.csv                       csv                  /home/arshit/Desktop/shell/name.csv               
+type.csv                       csv                  /home/arshit/Desktop/shell/type.csv               
+script2                                             /home/arshit/Desktop/shell/script2                
+script2.sh                     sh                   /home/arshit/Desktop/shell/script2/script2.sh     
+ex2.txt                        txt                  /home/arshit/Desktop/shell/script2/ex2.txt        
+script3.sh                     sh                   /home/arshit/Desktop/shell/script2/script3.sh     
+salary.csv                     csv                  /home/arshit/Desktop/shell/salary.csv             
+no.csv                         csv                  /home/arshit/Desktop/shell/no.csv                 
+script1.sh                     sh                   /home/arshit/Desktop/shell/script1.sh             
